@@ -1,0 +1,57 @@
+/*
+ *  body
+ *    header 
+ *      h1
+ *      p
+ *      nav
+ *        li
+ *          a
+ *    article
+ *      section .intro
+ *        h1
+ *        p
+ *      section .story
+ *        h1
+ *        h2
+ *        p
+ *    footer
+ *      nav
+ *        li
+ *          a
+ */  
+
+/*
+ * font-family: 'Niconne', cursive;
+ *
+ * font-family: 'Vast Shadow', cursive;
+ *
+ * font-family: 'Sonsie One', cursive;
+ *
+ * font-family: 'Chango', cursive;
+ *
+ * font-family: 'Open Sans Condensed', sans-serif;
+ */
+
+header {
+  font-family: 'Vast Shadow', cursive;
+}
+
+header h1 {
+  font-family: 'Niconne', cursive;
+}
+
+footer {
+  font-family: 'Vast Shadow', cursive;
+}
+
+article {
+ font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.intro  h1 {
+ font-family: 'Niconne', cursive;
+}
+
+.story  h1 {
+  font-family: 'Sonsie One', cursive;
+}
