@@ -79,7 +79,7 @@ console.log('numberArray.join("_"): ' +  numberArray.join('_'));
 console.log('\n');
 
 // indexOf and lastIndexOf
-console.log('indexOf will return the first occurice of a specified value in an array, after a specified index(default 0)');
+console.log('indexOf will return the first occurance of a specified value in an array, after a specified index(default 0)');
 console.log('usage numberArray.indexOf("value", "startIndex")');
 numberArray = [4,22,33,54,34,55,6,4,33];
 console.log('numberArray: [' + numberArray.toString()  + ']'); 
@@ -94,7 +94,7 @@ console.log('numberArray.slice(2, 6):   [' + numberArray.slice(2,6).toString() +
 console.log('numberArray:               [' + numberArray.toString()  + ']'); 
 console.log('\n')
 
-console.log('splice removes returns a new array composed of the contents between a start and end index, the default end index is array.length');
+console.log('splice removes and/or inserts an item or items at a specified index, changing the original array');
 console.log('numberArray:               [' + numberArray.toString()  + ']'); 
 console.log('numberArray.splice(2, 6):  [' + numberArray.splice(2,6).toString() + ']');
 console.log('numberArray:               [' + numberArray.toString()  + ']'); 
