@@ -1,4 +1,4 @@
-## Updated user stories for Wednesday morning's lab
+## Updated user stories for Tuesday
 
 *(The basics of the assignment: you're going to render the output to the browser window in a table rather than in lists. And, you'll use your new skills in constructor functions to reorganize and reduce your code. Oh yeah... you now have distinct sales data for each location, at the bottom of this document.)*
 
