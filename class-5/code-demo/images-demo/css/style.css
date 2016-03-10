@@ -1,0 +1,16 @@
+
+body {
+  display: flex;
+  background-color: #ea675b;
+  flex-direction: row;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+}
+img {
+  border-radius: 150px;
+  width: 300px;
+  height: 300px;
+}
