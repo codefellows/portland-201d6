@@ -3,7 +3,7 @@ var numberArray = [];
 console.log('numberArray: ', numberArray);
 
 // toString()
-// will seporate the items of a string with a ','
+// will separate the items of a string with a ','
 numberArray = [55, 44, 33, 22];
 console.log('numberArray.toString(): ' + numberArray.toString());
 
@@ -73,7 +73,7 @@ console.log('concatArray: [' + concatArray.toString()  + ']');
 console.log('\n');
 
 // join
-console.log('join will return a string of the items in the array seporated by a provided string, by default "," is the seporator');
+console.log('join will return a string of the items in the array separated by a provided string, by default "," is the separator');
 console.log('numberArray.join(): ' +  numberArray.join());
 console.log('numberArray.join("_"): ' +  numberArray.join('_'));
 console.log('\n');
