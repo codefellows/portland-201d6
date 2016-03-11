@@ -11,7 +11,7 @@ Full Time  | Part Time    | Topic
 Week 1     | Week 1 and 2 | Basic HTML, CSS, & Javascript 
 Week 2     | Week 3 and 4 | Working with the DOM
 Week 3     | Week 5 and 6 | Working with Librarys
-Week 4     | Week 7 and 8 | Your Project
+Week 4     | Week 7 and 8 | Project Week
 
 ## Lecture Notes from class
 
