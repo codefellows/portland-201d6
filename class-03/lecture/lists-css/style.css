@@ -1,0 +1,24 @@
+body {
+  background-color: #e2bd78;
+}
+
+header {
+  background-color: #78e2d4;
+}
+
+h1 {
+  font-size: 0.5em;
+  color: #fafafa;
+}
+
+header p {
+  text-decoration: line-through;
+}
+
+li {
+  font-size: 1em;
+}
+
+#ordered-list {
+  background-color: #fff;
+}
