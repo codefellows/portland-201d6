@@ -2,7 +2,7 @@ code demo
 ========
 # fonts 
 **fonts-demo/index.html**
-``` hrml   
+``` html   
 <!DOCTYPE html>
 <html>
   <head>
