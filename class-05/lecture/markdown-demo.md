@@ -30,3 +30,37 @@ for(var i=0; i<5; i++){
   console.log("jack is a good boy");
 }
 ```
+
+``` css
+.className{
+background-color: white;
+}
+```
+test that you would think would break here
+and here
+and here
+
+but if you use two spaces  
+it newlines  
+whitespace is important!  
+
+~~struck thru text~~
+
+
+<h1> HTML works (sometimes) </h1>
+<ul>
+<li> item 1 </li>
+<li> item 2 </li>
+<li> item 3 </li>
+</ul>
+
+> block quote
+
+>looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong
+
+>short
+>short
+
+break
+
+>one more
