@@ -140,3 +140,22 @@ article {
 </html>
 ```   
 
+**images-demo/css/style.css**
+``` css   
+
+body {
+  background-color: #ea675b;
+}
+
+h1 {
+  text-align: center;
+}
+
+/* circle images */
+img {
+  border-radius: 150px;
+  width: 300px;
+  height: 300px;
+}
+```   
+
