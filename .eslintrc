@@ -10,6 +10,7 @@
   },
   "rules": {
     "semi": [2, "always"],
+    "strict": [2, "global"],
     "no-undefined": 2,
     "no-unused-vars": [2, {"vars": "all", "args": "after-used"}],
     "indent": [2, 2],
