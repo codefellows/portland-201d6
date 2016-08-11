@@ -4,6 +4,6 @@
 
 As a result of completing Day 3 of Code 201, students will:
 
--Demonstrate understanding of and classify assorted control flow techniques in JavaScript including ‘for’ loops, ‘if’ and if/else’, as well as  ‘while’ and ‘do/while’ structures, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
--Demonstrate understanding of and explain what HTML element attributes are and how to use them, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
--Demonstrate understanding of and illustrate the CSS box model, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
+- Demonstrate understanding of and classify assorted control flow techniques in JavaScript including ‘for’ loops, ‘if’ and if/else’, as well as  ‘while’ and ‘do/while’ structures, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
+- Demonstrate understanding of and explain what HTML element attributes are and how to use them, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
+- Demonstrate understanding of and illustrate the CSS box model, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
