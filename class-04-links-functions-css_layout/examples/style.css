@@ -1,0 +1,46 @@
+div {
+  height: 150px;
+  margin: 10px 0;
+  background-color: #CCE;
+  border: 1px solid blue;
+}
+
+ul {
+  list-style: none;
+}
+/* Display inline means the elements will sit next to eachother*/
+li {
+  display: inline;
+}
+/* A block level element stretches to 100% of its parent by default. Even if
+you take down the width, though, it still takes up a whole line.*/
+.block-div-two {
+  width: 300px;
+}
+
+/* We use margin 0 auto to center block elements. You have to set the width in
+order for it to work.*/
+.centered-div {
+  margin: 0 auto;
+  width: 300px;
+}
+/* A relatively positioned div with no top, bottom, left, or right properties
+sits in the same place that you would expect it to.*/
+.relative-one {
+  position: relative;
+}
+/* Once you add those properties it changes the position relative to where it's
+supposed to be sitting. But it still occupies the same space that it would have*/
+.relative-two {
+  position: relative;
+  bottom: 20px;
+  left: 50px;
+}
+/* An absolutely positioned element (as well as a fixed one) no longer occupies
+that space. The top, bottom, left, and right properties place it relative to
+its nearest positioned parent element. With it eventually defaulting to the window.*/
+.absolute-div {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
