@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <style type="text/css">
+    table {
+      border: 2px dashed red;
+    }
+    thead {
+      background-color: #ecc;
+    }
+    tbody {
+      background-color: #ddf;
+    }
+    th, td {
+      border: 1px solid blue;
+    }
+
+  </style>
+</head>
+<body>
+<h1>Static Table</h1>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>9am</th>
+      <th>10am</th>
+      <th>11am</th>
+      <th>Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Pike</th>
+      <td>37</td>
+      <td>50</td>
+      <td>22</td>
+      <td>109</td>
+    </tr>
+  </tbody>
+</table>
+<h1>Dynamic Table</h1>
+<table id="store_table">
+</table>
+
+<script type="text/javascript" src="app.js"></script>
+</body>
+</html>
