@@ -2,3 +2,6 @@ main {
   border: 1px solid blue;
   padding: 20px;
 }
+img {
+  width: 200px;
+}
