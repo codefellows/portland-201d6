@@ -72,3 +72,11 @@ function addClicks(path) {
     }
   }
 }
+function renderChart() {
+  var ctx = document.getElementById('my_chart');
+  var chartConfig = {
+
+  };
+
+  var myChart = new Chart(ctx, chartConfig);
+}
